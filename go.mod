@@ -1,4 +1,4 @@
-module github.com/ray1729/gpx-utils
+module github.com/nigeldeakin/gpx-utils
 
 go 1.13
 
